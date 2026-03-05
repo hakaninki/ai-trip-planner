@@ -72,7 +72,7 @@ Plan your perfect trip in minutes — personalized, day-by-day, hour-by-hour.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/ai-trip-planner.git
+git clone https://github.com/hakaninki/ai-trip-planner.git
 cd ai-trip-planner
 ```
 
