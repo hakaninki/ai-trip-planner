@@ -25,10 +25,10 @@ Plan your perfect trip in minutes — personalized, day-by-day, hour-by-hour.
 ### Planner — Trip Details
 ![Trip Details Step](./assets/2.png)
 
-### Planner — AI-Generated Questions
+### Planner — Day-by-Day Itinerary
 ![Questions Step](./assets/3.png)
 
-### Planner — Day-by-Day Itinerary
+### Planner — Saved Plans
 ![Itinerary View](./assets/4.png)
 
 </div>
@@ -211,12 +211,3 @@ Dashboard: browse & revisit all saved itineraries
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-<div align="center">
-  Made with ❤️ using Next.js &amp; Google Gemini
-</div>
